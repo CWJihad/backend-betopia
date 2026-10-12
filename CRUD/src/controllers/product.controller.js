@@ -1,4 +1,4 @@
-import { Product } from '../models/product.model.js'; // আপনার মডেলের পাথ অনুযায়ী ঠিক করে নেবেন
+import { Product } from '../models/product.model.js';
 
 const createProduct = async (req, res) => {
   try {
